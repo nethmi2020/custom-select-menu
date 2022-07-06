@@ -3,4 +3,6 @@
 
 ## subheader
 
-test
+#local development
+
+1. open index.htmlin browser
